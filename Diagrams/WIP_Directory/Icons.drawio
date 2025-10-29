@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
+  <diagram name="Physical Architecture" id="l8jFcSZHZC9CwOs12cQr">
+    <mxGraphModel dx="1769" dy="1046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qah3mxzT7nt9NT5a_M-d-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Oracle_Database.svg;" parent="1" vertex="1">
+          <mxGeometry x="540" y="440" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="qah3mxzT7nt9NT5a_M-d-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server_Group.svg;" parent="1" vertex="1">
+          <mxGeometry x="548" y="290" width="60" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="qah3mxzT7nt9NT5a_M-d-3" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C925D1;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_sql_server_instance;" parent="1" vertex="1">
+          <mxGeometry x="530" y="150" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="qah3mxzT7nt9NT5a_M-d-5" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" parent="1" vertex="1">
+          <mxGeometry x="150" y="380" width="50" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="BwUcE1MlJhdsTigGfgvU-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Geosm_E-commerce_18px-2888/statistics-1197.svg" vertex="1" parent="1">
+          <mxGeometry x="334" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BwUcE1MlJhdsTigGfgvU-6" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="260.22" y="220" width="177.78" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="BwUcE1MlJhdsTigGfgvU-7" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_rect;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="170" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BwUcE1MlJhdsTigGfgvU-8" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.json;gradientColor=#DFDEDE" vertex="1" parent="1">
+          <mxGeometry x="157.82" y="500" width="102.4" height="102.4" as="geometry" />
+        </mxCell>
+        <mxCell id="BwUcE1MlJhdsTigGfgvU-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Dompicon_Glyph_File_Format_2-2630/file-csv-format-type-1406.svg" vertex="1" parent="1">
+          <mxGeometry x="130" y="610" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BwUcE1MlJhdsTigGfgvU-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/CAD_Database_Presentation_Spreadsheet_Vector_file_format-2933/19-1270.svg" vertex="1" parent="1">
+          <mxGeometry x="620" y="600" width="92" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="BwUcE1MlJhdsTigGfgvU-13" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.machine_learning;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="490" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="BwUcE1MlJhdsTigGfgvU-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Ionicons-2627/icon-social-github-1402.svg" vertex="1" parent="1">
+          <mxGeometry x="310" y="670" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
